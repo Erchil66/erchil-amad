@@ -45051,7 +45051,7 @@ var $async$xo=A.r(function(a,b){if(a===1)return A.t(b,r)
 while(true)switch(s){case 0:o=self.URL||self.webkitURL
 n=A
 s=2
-return A.x($.qf().cz(0,"assets/pdf/resume_erchil_amad.pdf"),$async$xo)
+return A.x($.qf().cz(0,"assets/pdf/cv-erchil.pdf"),$async$xo)
 case 2:p=o.createObjectURL(n.aUE([b],"application/pdf"))
 p.toString
 q=window.open(p,"_blank")
